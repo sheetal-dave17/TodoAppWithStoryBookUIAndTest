@@ -1,0 +1,17 @@
+.input {
+    border-radius: 3em;
+    height: 30px;
+    margin: 20px 20px;
+}
+
+.input-small {
+    width: 10%;
+}
+
+.input-medium {
+    width: 30%;
+}
+
+.input-large {
+    width: 50%;
+}
